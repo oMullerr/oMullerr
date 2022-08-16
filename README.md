@@ -1,5 +1,3 @@
-### Olá, eu sou o Matheus Leindorf Muller
-
 ### Hello, my name is Matheus Leindorf Muller
 ##
 
