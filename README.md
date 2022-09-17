@@ -1,6 +1,6 @@
 ### Hello, my name is Matheus Leindorf Muller   
 
-### Link to my [portfolio](https://omullerr.github.io/My-portfolio/)  
+### [My portfolio](https://omullerr.github.io/My-portfolio/)  
 ##
 
 <div>
